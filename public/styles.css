@@ -1,0 +1,15 @@
+#newMessage {
+    position: fixed;
+    bottom: 0px;
+    left:0px;
+    width:100%;
+}
+
+#in{
+    width: 70%;
+}
+
+#sendMessage{
+    width:20%;
+    background-color: blue;
+}
